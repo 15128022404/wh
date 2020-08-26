@@ -2,5 +2,5 @@ eureka:
   client:
     service-url:
       # 指定注册中心的服务地址
-      defaultZone: http://localhost:8762/eureka/
+      defaultZone: http://localhost:8762/eureka/111
 
